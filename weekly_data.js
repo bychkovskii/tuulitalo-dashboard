@@ -1,6 +1,6 @@
 // weekly_data.js -- GENERATED FILE, do not edit by hand.
 // Source of truth: weekly_plan_w40.json
-// Generated: 2026-10-01T10:05:50.215Z
+// Generated: 2026-10-01T10:31:20.003Z
 // Regenerate:  node regen_weekly_js.js
 
 window.WEEKLY_DATA = {
@@ -18,14 +18,14 @@ window.WEEKLY_DATA = {
       "YouTube",
       "TikTok",
       "Instagram",
-      "Sreda"
+      "Threads"
     ],
     "platform_priority": [
       "TikTok",
       "VK",
       "Instagram",
       "YouTube",
-      "Sreda"
+      "Threads"
     ]
   },
   "pillars": {

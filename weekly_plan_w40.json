@@ -8,8 +8,8 @@
     "total_publications": 105,
     "interval_jitter_min": 15,
     "publish_same_time_all_platforms": true,
-    "platforms": ["VK", "YouTube", "TikTok", "Instagram", "Sreda"],
-    "platform_priority": ["TikTok", "VK", "Instagram", "YouTube", "Sreda"]
+    "platforms": ["VK", "YouTube", "TikTok", "Instagram", "Threads"],
+    "platform_priority": ["TikTok", "VK", "Instagram", "YouTube", "Threads"]
   },
   "pillars": {
     "M": { "name": "Мир и герои", "color": "#8B7BD8" },

@@ -15,7 +15,7 @@
 
 ## Площадки
 
-VK · YouTube · TikTok · Instagram · СРЕДA
+VK · YouTube · TikTok · Instagram · Threads
 
 ## Контент-столпы
 
